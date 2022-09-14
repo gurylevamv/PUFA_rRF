@@ -1,0 +1,203 @@
+	Gene	ID_NCBI	description	pathway
+0	CYP1A1	1543	cytochrome P450 family 1 subfamily A member 1	CYP
+1	CYP1A2	1544	cytochrome P450 family 1 subfamily A polypeptide 2 [EC:1.14.14.1]	CYP
+2	CYP1B1	1545	cytochrome P450 family 1 subfamily B member 1	CYP
+3	CYP3A4	1576	cytochrome P450 family 3 subfamily A polypeptide 4 [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14	CYP
+4	CYP3A5	1577	cytochrome P450 family 3 subfamily A member 5	CYP
+5	CYP3A43	64816	cytochrome P450 family 3 subfamily A member 43	CYP
+6	CYP2A6	1548	cytochrome P450 family 2 subfamily A member 6	CYP
+7	CYP2A7	1549	cytochrome P450 family 2 subfamily A member 7	CYP
+8	CYP2A13	1553	cytochrome P450 family 2 subfamily A member 13	CYP
+9	CYP2B6	1555	cytochrome P450 family 2 subfamily B polypeptide 6 [EC:1.14.13.-]	CYP
+10	CYP2C8	1558	cytochrome P450 family 2 subfamily C polypeptide 8 [EC:1.14.14.1]	CYP
+11	CYP2C9	1559	cytochrome P450 family 2 subfamily C polypeptide 9 [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.14	CYP
+12	CYP2C18	1562	cytochrome P450 family 2 subfamily C member 18	CYP
+13	CYP2C19	1557	cytochrome P450 family 2 subfamily C polypeptide 19 [EC:1.14.14.51 1.14.14.52 1.14.14.53 1.	CYP
+14	CYP2D6	1565	cytochrome P450 family 2 subfamily D member 6	CYP
+15	CYP2E1	1571	cytochrome P450 family 2 subfamily E polypeptide 1 [EC:1.14.13.-]	CYP
+16	CYP2F1	1572	cytochrome P450 family 2 subfamily F member 1	CYP
+17	CYP2J2	1573	cytochrome P450 family 2 subfamily J [EC:1.14.14.1 1.14.14.73 1.14.14.74 1.14.14.75]	CYP
+18	CYP2R1	120227	cytochrome P450 family 2 subfamily R member 1	CYP
+19	CYP2S1	29785	cytochrome P450 family 2 subfamily S member 1	CYP
+20	CYP2U1	113612	cytochrome P450 family 2 subfamily U polypeptide 1	CYP
+21	CYP2W1	54905	cytochrome P450 family 2 subfamily W member 1	CYP
+22	CYP4A11	1579	cytochrome P450 family 4 subfamily A member 11	CYP
+23	CYP4A22	284541	cytochrome P450 family 4 subfamily A member 22	CYP
+25	CYP4F2	8529	leukotriene-B4 20-monooxygenase / phylloquinone omega-hydroxylase / docosahexaenoic acid o	CYP
+26	CYP4F3	4051	cytochrome P450 family 4 subfamily F member 3	CYP
+27	CYP4F8	11283	cytochrome P450 family 4 subfamily F polypeptide 8 [EC:1.14.14.1]	CYP
+28	CYP4F11	57834	cytochrome P450 family 4 subfamily F member 11	CYP
+29	CYP4F12	66002	cytochrome P450 family 4 subfamily F member 12	CYP
+30	CYP4F22	126410	cytochrome P450 family 4 subfamily F member 22	CYP
+31	CYP4V2	285440	cytochrome P450 family 4 subfamily V member 2	CYP
+32	CYP4X1	260293	cytochrome P450 family 4 subfamily X member 1	CYP
+33	CYP4Z1	199974	cytochrome P450 family 4 subfamily Z member 1	CYP
+34	TBXAS1	6916	(CYP5A1) thromboxane A synthase 1	CYP
+35	CYP7A1	1581	cytochrome P450 family 7 subfamily A member 1	CYP
+36	CYP7B1	9420	cytochrome P450 family 7 subfamily B member 1	CYP
+37	PTGIS	5740	(CYP8A1) prostaglandin I2 synthase	CYP
+38	CYP11A1	1583	cytochrome P450 family 11 subfamily A member 1	CYP
+39	CYP11B1	1584	cytochrome P450 family 11 subfamily B member 1	CYP
+40	CYP17A1	1586	cytochrome P450 family 17 subfamily A member 1	CYP
+41	CYP20A1	57404	cytochrome P450 family 20 subfamily A member 1	CYP
+42	CYP3A7	1551	cytochrome P450 family 3 subfamily A member 7	CYP
+43	CYP21A2	1589	cytochrome P450 family 21 subfamily A member 2	CYP
+44	CYP26A1	1592	cytochrome P450 family 26 subfamily A member 1	CYP
+45	CYP26B1	56603	cytochrome P450 family 26 subfamily B member 1	CYP
+46	CYP26C1	340665	cytochrome P450 family 26 subfamily C member 1	CYP
+47	CYP27A1	1593	cytochrome P450 family 27 subfamily A member 1	CYP
+48	CYP27C1 	339761	cytochrome P450 family 27 subfamily C member 1	CYP
+49	CYP39A1	51302	cytochrome P450 family 39 subfamily A member 1	CYP
+50	CYP46A1	10858	cytochrome P450 family 46 subfamily A member 1	CYP
+51	PECR	55825	peroxisomal trans-2-enoyl-CoA reductase	REDUCT
+52	DECR1	1666	2,4-dienoyl-CoA reductase 1	REDUCT
+53	FAR1	84188	fatty acyl-CoA reductase 1	REDUCT
+54	FAR2	55711	fatty acyl-CoA reductase 2	REDUCT
+55	ACOT1	641371	acyl-CoA thioesterase 1	ACOT
+56	ACOT2	10965	acyl-CoA thioesterase 2	ACOT
+57	ACOT4	122970	acyl-CoA thioesterase 4	ACOT
+58	ACOT6	641372	acyl-CoA thioesterase 6	ACOT
+59	ACOT7	11332	acyl-CoA thioesterase 7	ACOT
+60	ACOT8	10005	acyl-CoA thioesterase 8	ACOT
+61	ACOT9	23597	acyl-CoA thioesterase 9	ACOT
+62	ACOT11	26027	acyl-CoA thioesterase 11	ACOT
+63	ACOT12	134526	acyl-CoA thioesterase 12	ACOT
+64	ACOT13	55856	acyl-CoA thioesterase 13	ACOT
+65	ELOVL2	54898	ELOVL fatty acid elongase 2	ELOVL
+66	ELOVL5	60481	ELOVL fatty acid elongase 5	ELOVL
+67	FADS1	3992	acyl-CoA (8-3)-desaturase (Delta-5 desaturase) [EC:1.14.19.44]	DES
+68	FADS2	9415	acyl-CoA 6-desaturase (Delta-6 desaturase) [EC:1.14.19.3]	DES
+69	FADS3	3995	fatty acid desaturase 3	DES
+70	FADS6	283985	fatty acid desaturase 6	DES
+71	ACOX1	51	acyl-CoA oxidase 1	OXID
+72	HADH	3033	hydroxyacyl-CoA dehydrogenase	DEH
+73	HADHA	3030	hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha	DEH
+74	HSD17B12	51144	KAR, IFA38; 17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [E 	DEH
+75	ACAD8	27034	acyl-CoA dehydrogenase family member 8	DEH
+76	ACAD9	28976	acyl-CoA dehydrogenase family member 9	DEH
+77	ACAD10	80724	acyl-CoA dehydrogenase family member 10	DEH
+78	ACAD11	84129	acyl-CoA dehydrogenase family member 11	DEH
+79	ACADVL	37	acyl-CoA dehydrogenase very long chain	DEH
+80	ACADL	33	acyl-CoA dehydrogenase long chain	DEH
+81	BAAT	570	bile acid-CoA:amino acid N-acyltransferase	ACT
+82	ACAA1	30	acetyl-CoA acyltransferase 1	ACT
+83	ACAA2	10449	acetyl-CoA acyltransferase 2	ACT
+84	ALOX5	240	arachidonate 5-lipoxygenase [EC:1.13.11.34]	LOX
+85	ALOX5AP	241	(FLAP) arachidonate 5-lipoxygenase activating protein	LOX
+86	ALOX12	239	arachidonate 12-lipoxygenase [EC:1.13.11.31]	LOX
+87	ALOX12B	242	arachidonate 12-lipoxygenase, 12R type	LOX
+88	ALOX15	246	arachidonate 15-lipoxygenase [EC:1.13.11.33]	LOX
+89	ALOX15B	247	arachidonate 15-lipoxygenase type B	LOX
+90	ALOXE3	59344	arachidonate lipoxygenase 3	LOX
+91	PTGS1	5742	COX1; prostaglandin-endoperoxide synthase 1 [EC:1.14.99.1] 	PGs
+92	PTGS2	5743	COX2; prostaglandin-endoperoxide synthase 2 [EC:1.14.99.1] 	PGs
+93	PTGDS	5730	prostaglandin D2 synthase	PGs
+94	HPGDS	27306	hematopoietic prostaglandin D synthase	PGs
+95	PRXL2B	127281	peroxiredoxin like 2B	PGs
+96	PTGES	9536	microsomal prostaglandin-E synthase 1 [EC:5.3.99.3]	PGs
+97	PTGES2	80142	microsomal prostaglandin-E synthase 2 [EC:5.3.99.3]	PGs
+98	PTGES3	10728	cytosolic prostaglandin-E synthase [EC:5.3.99.3]	PGs
+99	AKR1A1	10327	aldo-keto reductase family 1 member A1	PGs
+100	AKR1B1	231	aldo-keto reductase family 1 member B	PGs
+101	AKR1C3	8644	aldo-keto reductase family 1 member C3	PGs
+102	CBR1	873	carbonyl reductase 1 [EC:1.1.1.184 1.1.1.189 1.1.1.197]	PGs
+103	HPGD	3248	15-hydroxyprostaglandin dehydrogenase	PGs
+104	PTGR1	22949	prostaglandin reductase 1	PGs
+105	LTC4S	4056	leukotriene-C4 synthase [EC:4.4.1.20]	LTs
+106	LTA4H	4048	leukotriene A4 hydrolase	LTs
+107	GGT5	2687	gamma-glutamyltransferase 5	LTs
+108	ACSL1	2180	acyl-CoA synthetase long chain family member 1	SYNT_L
+109	ACSL3	2181	acyl-CoA synthetase long chain family member 3	SYNT_L
+110	ACSL4	2182	acyl-CoA synthetase long chain family member 4	SYNT_L
+111	ACSL5	51703	acyl-CoA synthetase long chain family member 5	SYNT_L
+112	ACSL6	23305	acyl-CoA synthetase long chain family member 6	SYNT_L
+113	ACSBG1	23205	acyl-CoA synthetase bubblegum family member 1	SYNT_L
+114	MBOAT7	79143	membrane bound O-acyltransferase domain containing 7	
+115	LPCAT3	10162	lysophosphatidylcholine acyltransferase 3	
+116	EPHX1	2052	epoxide hydrolase 1	EHs
+117	EPHX2	2053	soluble epoxide hydrolase / epoxide hydrolase 2	EHs
+118	EPHX3	79852	epoxide hydrolase 3	EHs
+119	EPHX4	253152	epoxide hydrolase 4	EHs
+120	PLB1	151056	PLB; phospholipase B1, membrane-associated [EC:3.1.1.4 3.1.1.5]	
+121	FASN	2194	fatty acid synthase	
+122	FAAH	2166	fatty acid amide hydrolase	
+123	FAAH2	158584	fatty acid amide hydrolase 2	
+124	MGLL	11343	(MAGL) monoglyceride lipase	
+125	FABP1	2168	fatty acid binding protein 1	FABP
+126	FABP2	2169	fatty acid binding protein 2	FABP
+127	FABP3	2170	fatty acid binding protein 3	FABP
+128	FABP4	2167	fatty acid binding protein 4	FABP
+129	FABP5	2171	fatty acid binding protein 5	FABP
+130	FABP6	2172	fatty acid binding protein 6	FABP
+131	FABP7	2173	fatty acid binding protein 7	FABP
+132	PLA1A	51365	phospholipase A1 member A	PLA
+133	PLA2G1B	5319	phospholipase A2 group IB	PLA
+134	PLA2G2A	5320	phospholipase A2 group IIA (sPLA2)	PLA
+135	PLA2G2C	391013	phospholipase A2 group IIC	
+136	PLA2G2D	26279	phospholipase A2 group IID	PLA
+137	PLA2G2E	30814	phospholipase A2 group IIE	PLA
+138	PLA2G2F	64600	phospholipase A2 group IIF	
+139	PLA2G3	50487	phospholipase A2 group III	PLA
+140	PLA2G4A	5321	CPLA2; cytosolic phospholipase A2 [EC:3.1.1.4] 	PLA
+141	PLA2G4B	100137049	phospholipase A2 group IVB	PLA
+142	PLA2G4C	8605	phospholipase A2 group IVC	PLA
+143	PLA2G4D	283748	phospholipase A2 group IVD	PLA
+144	PLA2G4E	123745	phospholipase A2 group IVE	PLA
+145	PLA2G4F	255189	phospholipase A2 group IVF	PLA
+146	PLA2G5	5322	phospholipase A2 group V	PLA
+147	PLA2G6	8398	IPLA2; calcium-independent phospholipase A2 [EC:3.1.1.4] 	PLA
+148	PLA2G7	7941	phospholipase A2 group VII	PLA
+149	PLA2G10	8399	phospholipase A2 group X	PLA
+150	PLA2G12A	81579	phospholipase A2 group XIIA	PLA
+151	PLA2G12B	84647	phospholipase A2 group XIIB	PLA
+152	PLA2G15	23659	phospholipase A2 group XV	PLA
+154	PLAA	9373	phospholipase A2 activating protein	
+155	PLCL1	5334	phospholipase C like 1 (inactive)	PLC
+156	PLCZ1	89869	phospholipase C zeta 1	PLC
+157	PLCD1	5333	phospholipase C delta 1	PLC
+158	PLCG1	5335	phospholipase C gamma 1	PLC
+159	PLCG2	5336	phospholipase C gamma 2	PLC
+160	PLCB1	23236	phospholipase C beta 1	PLC
+161	PLCB2	5330	phospholipase C beta 2	PLC
+162	PLCB3	5331	phospholipase C beta 3	PLC
+163	PLCB4	5332	phospholipase C beta 4	PLC
+164	PLCD3	113026	phospholipase C delta 3	PLC
+165	PLCD4	84812	phospholipase C delta 4	PLC
+166	PLCH1	23007	phospholipase C eta 1	PLC
+167	PLCH2	9651	phospholipase C eta 2	PLC
+168	PLCL2	23228	phospholipase C like 2	PLC
+169	PLD1	5337	phospholipase D1	PLD
+170	PLD2	5338	phospholipase D2	PLD
+171	PLD3	23646	phospholipase D family member 3	PLD
+172	PLD4	122618	phospholipase D family member 4	PLD
+173	PLD5	200150	phospholipase D family member 5	PLD
+174	PLD6	201164	phospholipase D family member 6	PLD
+175	TBXA2R	6915	thromboxane A2 receptor	receptor
+176	PTGFR	5737	prostaglandin F receptor	receptor
+177	PTGIR	5739	prostaglandin I2 receptor	receptor
+178	PTGER1	5731	prostaglandin E receptor 1	receptor
+179	PTGER2	5732	prostaglandin E receptor 2	receptor
+180	PTGER3	5733	prostaglandin E receptor 3	receptor
+181	PTGER4	5734	prostaglandin E receptor 4	receptor
+182	PTGDR	5729	prostaglandin D2 receptor	receptor
+183	PTGDR2	11251	prostaglandin D2 receptor 2	receptor
+184	GPR32	2854	(RVDR1) G protein-coupled receptor 32	receptor
+185	GPR55	9290	G protein-coupled receptor 55	receptor
+186	FPR2	2358	(ALXR) formyl peptide receptor 2	receptor
+187	CMKLR1	1240	(RVER1 or ChemR23) chemerin chemokine-like receptor 1	receptor
+188	GPR18	2841	G protein-coupled receptor 18	receptor
+189	LGR6	59352	leucine rich repeat containing G protein-coupled receptor 6	receptor
+190	ADIPOR1	51094	adiponectin receptor 1	receptor
+191	FFAR1	2864	(GPR40) free fatty acid receptor 1	receptor
+192	FFAR4	338557	(GPR120) free fatty acid receptor 4	receptor
+193	OXER1	165140	oxoeicosanoid receptor 1	receptor
+194	GPR17	2840	G protein-coupled receptor 17	receptor
+195	LTB4R	1241	leukotriene B4 receptor	receptor
+196	LTB4R2	56413	leukotriene B4 receptor 2	receptor
+197	CYSLTR1	10800	cysteinyl leukotriene receptor 1	receptor
+198	CYSLTR2	57105	cysteinyl leukotriene receptor 2	receptor
+199	OXGR1	27199	oxoglutarate receptor 1	receptor
+200	CNR1	1268	(CB1) cannabinoid receptor 1	receptor
+201	CNR2	1269	(CB2) cannabinoid receptor 2	receptor
+202	THEM4	117145	C-terminal modulator protein (CTMP), thioesterase superfamily member 4	ACOT
+203	THEM5	284486	(ACOT15) thioesterase superfamily member 5	ACOT
