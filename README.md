@@ -1,2 +1,2 @@
 # PUFA_rRF
-rank Random Forest model for investigating PUFA genes in breast cancer pathogenesis
+rank Random Forest model for investigating role of PUFA metabolism breast cancer pathogenesis
